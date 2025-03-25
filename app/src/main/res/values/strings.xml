@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite App</string>
+    <string name="student_id">Student ID (for update/delete)</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="insert_data">Insert Data</string>
+    <string name="view_all_students">View All Students</string>
+    <string name="update_student">Update Student</string>
+    <string name="delete_student">Delete Student</string>
+    <string name="results_appear">Results will appear here</string>
+</resources>
